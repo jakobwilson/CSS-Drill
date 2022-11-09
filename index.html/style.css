@@ -1,0 +1,112 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgrey;
+    
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+    
+}
+
+a {
+    text-decoration: none;
+    
+}
+
+.readme-wrapper:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: rgb(43, 226, 141);
+}
+
+span {
+    color: lightskyblue;
+    font-weight: bold;
+}
+
+.boxes {
+    margin: 1em;
+    padding: 1em;
+    border: solid black; width: 30em;
+    border-radius: 1em;
+    display: block;
+}
+
+#box1 {
+    background-color: green;
+}
+
+#box2 {
+    background-color: coral;
+    
+}
+
+#box3 {
+    background-color: crimson;
+}
+
+#box4 {
+    background-color: dodgerblue;
+}
+
+.Matrix {
+    height: 50px;
+    width: 50px;
+    border-radius: 5em;
+    background-color: antiquewhite;
+    position: absolute; left: 50px;
+}
+
+h1 {
+    color: limegreen;
+}
+
+.OG {
+    color: orangered;;
+}
+
+.add {
+    color: aqua;
+}
+
+#Rank1 {
+    color: blue;
+}
+
+#Rank2 {
+    color: brown;
+}
+
+#Rank3 {
+    color: darkgreen;
+}
+
+#Rank4 {
+    color: darkorchid;
+}
+
+#Rank5 {
+    color: gold;
+}
+
+ul {
+    
+    border: solid black; width: 500px; 
+    color: lime;
+    
+    
+}
+
+.Star {
+    color: cadetblue;
+    
+    
+}
+
+.wars {
+    color: indianred; 
+    
+    
+}
+
